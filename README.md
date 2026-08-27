@@ -1,2 +1,2 @@
 # Fabrica_de_Software_2026.2
-Workshop de Dados
+Workshop Análise de Dados
